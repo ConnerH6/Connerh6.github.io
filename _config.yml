@@ -24,7 +24,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: 
-    github:  Connerh6
+  #  github:  Connerh6
     linkedIn: in/conner-hoffman-387059174
     rss: rss
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Blog"
-description: What I'm up to
 date:   2020-06-9 21:03:36 +0530
 categories: HTB OSCP CySEC Blog
 ---

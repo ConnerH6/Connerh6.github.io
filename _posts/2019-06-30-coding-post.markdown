@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Me and Resume"
-description: An example post which shows code rendering.
+description: About me, My Career, Skills, and Interests
 date:   2020-06-8 21:03:36 +0530
 categories: AboutMe Resume
 ---

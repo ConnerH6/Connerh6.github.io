@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "About Me and Resume"
-description: About me, My Career, Skills, and Interests
+title:  "About Me"
+description: About me, My Career, and Interests
 date:   2020-06-8 21:03:36 +0530
-categories: AboutMe Resume
+categories: AboutMe
 ---
 My name is Conner Hoffman. I am a 21 year old tech enthusiast. Technology has encapsulated my interest since I can remember, lately security has been on the forefront of my interests and where I plan on driving my career.
 

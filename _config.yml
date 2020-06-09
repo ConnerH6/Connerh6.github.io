@@ -12,7 +12,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Conner Hoffman
-  tagline: Administrator. Ethical Hacker
+  tagline: System Administrator. Cyber Security Researcher. Ethical Hacker
   date_format: "%b %-d, %Y"
   style: black
   showNav: true

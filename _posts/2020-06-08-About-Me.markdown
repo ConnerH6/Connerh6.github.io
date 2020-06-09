@@ -4,7 +4,7 @@ title:  "About Me"
 description: About me, My Career, and Interests
 date:   2020-06-8 21:03:36 +0530
 ---
-My name is Conner Hoffman. I am a 21 year old tech enthusiast. Technology has encapsulated my interest since I can remember, lately security has been on the forefront of my interests and where I plan on driving my career.
+My name is Conner Hoffman. I am a 21 year old tech enthusiast. Technology has encapsulated my interest since I can remember, lately security has been on the forefront of my interests and where I plan on driving my career. This post will dive into my Career Goals and what I ideally want to provide my employeer with. Secondly I dive into my areas of interest and expertise, Thirdly I go into some of the personal projects I have completed or am working on.
 
 
 Career Goals:

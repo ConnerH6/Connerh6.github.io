@@ -7,7 +7,7 @@ hello
 
 ![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
-https://github.com/ConnerH6/Connerh6.github.io/blob/master/Current_PDF.pdf
+![texture theme preview](https://github.com/ConnerH6/Connerh6.github.io/blob/master/Current_PDF.pdf)
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

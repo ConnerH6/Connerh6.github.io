@@ -1,5 +1,14 @@
 ---
 layout: post
 title:  "Skillset"
-
+description: A list of my various skills
+date:   2020-06-09 21:03:36 +0530
 ---
+A list of Technologies and Applications I am experienced with -
+
+Operating Systems: Windows 7, 10, Linux, MacOS, Windows Server
+Hardware: Computer Assembly & Repairs, Hardware and Software Troubleshooting, Operating System and Application Software Installation, Hardware and Peripherals Installation, Network Printers
+Networking: CISCO IOS, ArubaOS, ACLs, OSI TCP/IP Model, FTP, DNS, DHCP, NAS, VLANs, STP, SSH, Telnet, Fiber
+Software: Active Directory, Wireshark, VirtualBox, VMWare, PuTTY, Microsoft Suite, BatchPatch, Zabbix, Spiceworks, Veeam
+Scripting/Programming Languages: Python, SQL, Java, Bash, Batch, Powershell, C#
+Offensive Security: Nmap, Netcat, Metasploit, Burpsuite, hashcat, Nessus

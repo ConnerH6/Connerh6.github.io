@@ -3,7 +3,7 @@ layout: post
 title:  "A list of my IT Skills"
 date:   2020-06-09 21:03:36 +0530
 ---
-A list of Technologies and Applications I am experienced with -
+List of Technologies I am comfortable with-
 
 Operating Systems: Windows 7, 10, (Kali, Arch, Debian, CentOS)Linux, MacOS, Windows Server
 

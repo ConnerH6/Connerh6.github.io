@@ -28,7 +28,7 @@ Personal Projects-
 
 1) You could say this website is one of my personal projects! I plan on keeping it updated as much as I can to document my progress in my personal studies and along my career.
 
-2) Virtualized domain controller - I have used my home server that I mentioned earlier to set up a Microsoft Server 2016 vm with a local DC, DNS, and DHCP server running with other vm's as host machines. This project is ongoing and a great sandbox environment I have set up for myself for playing with authentication methods, file servers, print servers, AD/GPO, and the plethora of use cases a production Domain controller would provide to the company.
+2) Virtualized domain controller - I have used my home server that I mentioned earlier to set up a Microsoft Server 2016 vm with a local DC, DNS, and DHCP server running with other vm's as clients. This project is ongoing and a great sandbox environment I have set up for myself for playing with authentication methods, file servers, print servers, AD/GPO, and the plethora of use cases a production Domain controller would provide to the company.
 
 3) Hackthebox.eu - This one is definitely an ongoing challenge. The amount of documentation and technologies and exploits I learn in just one box is immense. The practical technology and common security flaws you learn to acknowledge has been a massive gain to my skill set and overall knowledge in IT.
 

@@ -4,6 +4,7 @@ title:  "Blog"
 date:   2020-06-9 21:03:36 +0530
 categories: HTB OSCP CySEC Blog
 ---
+6/16/2020 - Worked on a Windows hackthebox machine today. A pretty informative box, involved the same c# decompilation in order to extract the method to decrypt an encrypted password. In this case the user password was inside of a sqlite db file, and the method that encrypted it used two static keys along with aes after taking the cleartext to Base64. This would have been secure had the encryption be dynamic rather than being able to find both static keys within the decompiled program. After using that given password I was able to get a shell with winrm. After some enumeration I was able to query AD to get information on a deleted admin account mentioned, after decoding that I was able to get root. Pretty interesting machine, learned a good amount about navigating and extracting nuggets of information from an anonymous RPC session. 
 
 6/9/2020 - Hopefully I will keep this updated to the best of my abilities. This will be my first entry, I plan on going into my findings online and what I am currently interested in and where I am spending my time.
 

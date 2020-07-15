@@ -13,7 +13,7 @@ permalink: /posts/:title/
 texture:
   title: Conner Hoffman
   tagline: System Administrator. Cyber Security Researcher. Ethical Hacker
-  date_format: "%b %-d, %Y"
+  date_format: #"%b %-d, %Y"
   style: blue
   showNav: true
   showPicker: false

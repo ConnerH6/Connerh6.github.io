@@ -3,16 +3,18 @@ layout: post
 title:  "Skillset"
 date:   2020-06-09 21:03:36 +0530
 ---
-List of Technologies I have experience with-
+Brief list of Technologies I have experience with-
 
-Operating Systems: Windows 7, 10, (Kali, Arch, Debian, CentOS)Linux, MacOS, Windows Server
+Operating Systems: Windows 7, 10, (Kali, Arch, Debian, CentOS)Linux, MacOS, Windows Server 2k8,2k12,2k16
 
 Hardware: Computer Assembly & Repairs, Hardware and Software Troubleshooting, Operating System and Application Software Installation, Hardware and Peripherals Installation, Network Printers
 
-Networking: CISCO IOS, ArubaOS, ACLs, OSI TCP/IP Model, FTP, DNS, DHCP, NAS, VLANs, STP, SSH, Telnet, Fiber
+Networking: CISCO IOS, ArubaOS, ACLs, OSI TCP/IP Model, FTP, DNS, DHCP, NAS/SAN, VLANs, STP, SSH, Fiber
 
-Software: Active Directory, Wireshark, VirtualBox, VMWare, PuTTY, Microsoft Suite, BatchPatch, Zabbix, Spiceworks, Veeam
+Software: Active Directory, Wireshark, VirtualBox, VMWare, PuTTY, Microsoft Suite, BatchPatch, Zabbix, Spiceworks, Veeam, Apache
 
-Scripting/Programming Languages: Python, SQL, Java, Bash, Batch, Powershell, C#
+Scripting/Programming Languages: Python, SQL, Java, Bash, Batch, Powershell, C#, PHP, Perl
 
-Offensive Security: Nmap, Netcat, Metasploit, Burpsuite, hashcat, Nessus
+Red Team Security: Nmap, Netcat, Metasploit, Burpsuite, hashcat, Hydra, Msvenom
+
+Blue Team Security: Nessus Scanner
